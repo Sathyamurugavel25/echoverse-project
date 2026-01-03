@@ -1,5 +1,10 @@
-this is now new file
+->this is now new file
 insert->add->commit->push(from vs to git)
 pull(from git to vs)
 
-git add . ->to ADD more files at a time
+->git add . ->to ADD more files at a time
+
+->git remote add origin (copy link of new rep)--[for new file from new folder n vs  push to git] 
+
+
+->git main(to find branch or sub directory name)
