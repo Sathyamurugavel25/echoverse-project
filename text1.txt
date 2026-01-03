@@ -1,1 +1,3 @@
 this is now new file
+insert->add->commit->push(from vs to git)
+pull(from git to vs)
