@@ -8,3 +8,7 @@ pull(from git to vs)
 
 
 ->git main(to find branch or sub directory name)
+
+->git checkout gitbranch1(new br name)---[this is used to say the local fol that there is another branch here]
+
+->git branch -a(to find which branch this file belonging to)
